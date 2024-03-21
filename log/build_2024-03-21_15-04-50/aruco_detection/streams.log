@@ -1,0 +1,24 @@
+[0.662s] Invoking command in '/home/art-chris/aruco_detection/src/aruco_detection': PYTHONPATH=/home/art-chris/aruco_detection/build/aruco_detection/prefix_override:/home/art-chris/aruco_detection/install/aruco_detection/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/aruco_detection build --build-base /home/art-chris/aruco_detection/build/aruco_detection/build install --record /home/art-chris/aruco_detection/build/aruco_detection/install.log --single-version-externally-managed
+[0.797s] running egg_info
+[0.797s] writing ../../build/aruco_detection/aruco_detection.egg-info/PKG-INFO
+[0.798s] writing dependency_links to ../../build/aruco_detection/aruco_detection.egg-info/dependency_links.txt
+[0.798s] writing entry points to ../../build/aruco_detection/aruco_detection.egg-info/entry_points.txt
+[0.798s] writing requirements to ../../build/aruco_detection/aruco_detection.egg-info/requires.txt
+[0.798s] writing top-level names to ../../build/aruco_detection/aruco_detection.egg-info/top_level.txt
+[0.818s] reading manifest file '../../build/aruco_detection/aruco_detection.egg-info/SOURCES.txt'
+[0.818s] writing manifest file '../../build/aruco_detection/aruco_detection.egg-info/SOURCES.txt'
+[0.818s] running build
+[0.818s] running build_py
+[0.819s] copying aruco_detection/detect_aruco.py -> /home/art-chris/aruco_detection/build/aruco_detection/build/lib/aruco_detection
+[0.819s] running install
+[0.819s] running install_lib
+[0.820s] copying /home/art-chris/aruco_detection/build/aruco_detection/build/lib/aruco_detection/detect_aruco.py -> /home/art-chris/aruco_detection/install/aruco_detection/lib/python3.8/site-packages/aruco_detection
+[0.820s] byte-compiling /home/art-chris/aruco_detection/install/aruco_detection/lib/python3.8/site-packages/aruco_detection/detect_aruco.py to detect_aruco.cpython-38.pyc
+[0.821s] running install_data
+[0.821s] running install_egg_info
+[0.822s] removing '/home/art-chris/aruco_detection/install/aruco_detection/lib/python3.8/site-packages/aruco_detection-0.0.0-py3.8.egg-info' (and everything under it)
+[0.822s] Copying ../../build/aruco_detection/aruco_detection.egg-info to /home/art-chris/aruco_detection/install/aruco_detection/lib/python3.8/site-packages/aruco_detection-0.0.0-py3.8.egg-info
+[0.823s] running install_scripts
+[0.833s] Installing detect_aruco script to /home/art-chris/aruco_detection/install/aruco_detection/lib/aruco_detection
+[0.833s] writing list of installed files to '/home/art-chris/aruco_detection/build/aruco_detection/install.log'
+[0.845s] Invoked command in '/home/art-chris/aruco_detection/src/aruco_detection' returned '0': PYTHONPATH=/home/art-chris/aruco_detection/build/aruco_detection/prefix_override:/home/art-chris/aruco_detection/install/aruco_detection/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/aruco_detection build --build-base /home/art-chris/aruco_detection/build/aruco_detection/build install --record /home/art-chris/aruco_detection/build/aruco_detection/install.log --single-version-externally-managed

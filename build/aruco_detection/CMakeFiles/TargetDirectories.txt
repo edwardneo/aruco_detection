@@ -1,0 +1,9 @@
+/home/art-chris/aruco_detection/build/aruco_detection/CMakeFiles/uninstall.dir
+/home/art-chris/aruco_detection/build/aruco_detection/CMakeFiles/aruco_detection_uninstall.dir
+/home/art-chris/aruco_detection/build/aruco_detection/CMakeFiles/test.dir
+/home/art-chris/aruco_detection/build/aruco_detection/CMakeFiles/edit_cache.dir
+/home/art-chris/aruco_detection/build/aruco_detection/CMakeFiles/rebuild_cache.dir
+/home/art-chris/aruco_detection/build/aruco_detection/CMakeFiles/list_install_components.dir
+/home/art-chris/aruco_detection/build/aruco_detection/CMakeFiles/install.dir
+/home/art-chris/aruco_detection/build/aruco_detection/CMakeFiles/install/local.dir
+/home/art-chris/aruco_detection/build/aruco_detection/CMakeFiles/install/strip.dir
